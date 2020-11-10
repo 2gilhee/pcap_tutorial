@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import sys
 import pcap
 from hex_print import hex_print
